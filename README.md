@@ -1,1 +1,1 @@
-# EulerProject
+# EulerProject in scala dotty
